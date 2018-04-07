@@ -13,7 +13,7 @@ Time spent: 4.5 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
-  - [ ] GIF Walkthrough: https://github.com/vkril/Cybersecurity-Week-7-Project-WordPress-vs.-Kali/blob/master/XSS-1.gif
+  - [ ] GIF Walkthrough: Cybersecurity-Week-7-Project-WordPress-vs.-Kali/XSS-1.gif
   - [ ] Steps to recreate: https://klikki.fi/adv/wordpress3.html
 
 2. Authenticated Cross-Site Scripting (XSS) via Media File Metadata
