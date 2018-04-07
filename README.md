@@ -1,6 +1,6 @@
 # Cybersecurity-Week-7-Project-WordPress-vs.-Kali   
 
-# Codepath Cybersecurity Week 7 Assignment
+# Project 7 - WordPress Pentesting
 
 Time spent: 4.5 hours spent in total
 
@@ -55,13 +55,19 @@ GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 For Attack 1:
+
   No challenges.
+  
   
 For Attack 2:
+
   No challenges.
   
+  
 For Attack 3:
+
   No challenges
+  
  
 
 ## License
