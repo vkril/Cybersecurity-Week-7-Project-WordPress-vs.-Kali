@@ -13,7 +13,7 @@ Time spent: 4.5 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
-  - [ ] GIF Walkthrough: https://github.com/vkril/Cybersecurity-Week-7-Project-WordPress-vs.-Kali/blob/master/XSS-1.gif?raw=true
+  - [ ] GIF Walkthrough: <img src="https://github.com/vkril/Cybersecurity-Week-7-Project-WordPress-vs.-Kali/blob/master/XSS-1.gif" width="800">
   - [ ] Steps to recreate: https://klikki.fi/adv/wordpress3.html
 
 2. Authenticated Cross-Site Scripting (XSS) via Media File Metadata
@@ -21,18 +21,17 @@ Time spent: 4.5 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.13
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: <img src="https://github.com/vkril/Cybersecurity-Week-7-Project-WordPress-vs.-Kali/blob/master/XSS-2.gif" width="800">
   - [ ] Steps to recreate: http://seclists.org/oss-sec/2017/q1/563
   
-1. (Required) Vulnerability Name or ID
+1. Large File Upload Error XSS
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.15
+  - [ ] GIF Walkthrough: <img src="https://github.com/vkril/Cybersecurity-Week-7-Project-WordPress-vs.-Kali/blob/master/XSS-3.gif" width="800">
+  - [ ] Steps to recreate: https://hackerone.com/reports/203515
+ 
 
 
 ## Assets
@@ -52,7 +51,7 @@ Describe any challenges encountered while doing the work
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Vitaliy Kril]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
